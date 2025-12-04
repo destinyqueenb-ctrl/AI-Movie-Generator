@@ -1,0 +1,5 @@
+{
+  "name": "AI Movie Script Generator",
+  "description": "Generate a movie script complete with scenes, descriptions, dialogue, and placeholder images from a simple idea. Uses the Gemini API to craft a compelling narrative structure.",
+  "requestFramePermissions": []
+}
